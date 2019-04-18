@@ -10,6 +10,12 @@
   * [AKHIL 1895748]	
   * [ANIL 1898475]
   * [HARI 1896492]
+
+### Avatar
+  * [Hari](C:\Users\1898475\Downloads\hari.jpg)
+  * []()
+  * []()
+  * []()
   
 ### Meaning
 1. hari: i am an achiever
