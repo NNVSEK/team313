@@ -6,9 +6,9 @@
  * [meaning](#meaning)
  
  ###meaning
-*hari: i am an achiever
-*anil: 
-*naga:
-*akhil:
+1. hari: i am an achiever
+2. anil: 
+3. naga:
+4. akhil:
 
 
