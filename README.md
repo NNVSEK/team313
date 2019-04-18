@@ -19,8 +19,12 @@
   
 ### Meaning
  > Hari is an acheiver. 
+ 
  > Akhil is no one.
+ 
  > Anil past is his strenght.
+ 
  > Naga the Herstal_Killer.
+ 
 
 
