@@ -1,4 +1,7 @@
 # *EndGame*
 
-####**Table Of Contents**
+###**Table Of Contents**
+ * [Team](#team)
+ * [Avatar](#avatar)
+ * [meaning](#meaning)
  
