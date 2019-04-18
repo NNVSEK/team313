@@ -5,7 +5,7 @@
  * [Avatar](#avatar)
  * [meaning](#meaning)
 
-### TEAM
+### Team
   * [NAGA 1896353]
   * [AKHIL 1895748]	
   * [ANIL 1898475]
@@ -18,9 +18,12 @@
   * []()
   
 ### Meaning
-1. hari: i am an achiever
-2. anil: 
-3. naga:
-4. akhil: NO One
+ > Hari is an acheiver. 
+ 
+ > Akhil is no one.
+ 
+ > Anil past is his strenght.
+ 
+ > Naga the Herstal_Killer.
 
 
